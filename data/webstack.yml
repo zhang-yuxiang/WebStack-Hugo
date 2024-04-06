@@ -1,13 +1,50 @@
 ---
 
+- taxonomy: 导航
+  icon: far fa-compass
+  links:
+    - title: 小报童导航
+      logo: https://xiaobot.vercel.app/android-chrome-192x192.png
+      url: xiaobot.top
+      description: 小报童导航，发现优秀专栏。
+    - title: 熊猫搜索
+      logo: https://api.iowen.cn/favicon/xmsoushu.com/.png
+      url: https://xmsoushu.com/#/
+      description: XmSearch 熊猫搜索-聚合文档搜索导航
+    - title: 虫部落
+      logo: https://api.iowen.cn/favicon/search.chongbuluo.com.png
+      url: https://search.chongbuluo.com/
+      description: 聚合搜索平台
+    - title: 龙轩导航
+      logo: https://api.iowen.cn/favicon/ilxdh.com.png
+      url: http://ilxdh.com/
+      description: 龙轩导航-做个有用的导航
+    - title: 阿虚同学的储物间
+      logo: https://api.iowen.cn/favicon/axutongxue.com.png
+      url: https://axutongxue.com/
+      description: 包含各种网站资源，软件、影视、学习、导航站等。
+    - title: 电报狗
+      logo: https://api.iowen.cn/favicon/www.smsgou.com.png
+      url: https://www.smsgou.com/
+      description: telegram频道导航网站
+    - title: tg搜索
+      logo: https://api.iowen.cn/favicon/www.sssoou.com.png
+      url: https://www.sssoou.com/
+      description: telegram搜索工具
+    - title: 产品经理导航站
+      logo: https://api.iowen.cn/favicon/pmbaobao.com.png
+      url: https://www.pmbaobao.com/
+      description: 产品经理导航站
+
+
 - taxonomy: 在线工具
   icon: fas fa-tools
   links:
-    - title: 关注我们
-      logo: ""
-      url: https://baidu.com
-      # qrcode: assets/images/logos/qrcode.jpg
-      description: BioIT 爱好者！
+#    - title: 关注我们
+#      logo: ""
+#      url: https://baidu.com
+#      # qrcode: assets/images/logos/qrcode.jpg
+#      description: BioIT 爱好者！
     - title: 腾讯帮小忙 轻松办公，工具助你一臂之力
       logo: https://api.iowen.cn/favicon/tool.browser.qq.com.png
       url: https://tool.browser.qq.com/
@@ -24,6 +61,15 @@
       logo: https://api.iowen.cn/favicon/perfma.com.png
       url: https://opts.console.perfma.com/
       description: PerfMa - Java虚拟机参数分析
+    - title: 在线ps网站
+      logo: https://api.iowen.cn/favicon/photopea.com.png
+      url: https://www.photopea.com/
+      description: 在线ps网站
+    - title: z-library
+      logo: https://api.iowen.cn/favicon/z-library.se.png
+      url: https://zh.z-library.se/
+      description: 在线书库
+
 
 
 - taxonomy: 资源
@@ -33,6 +79,10 @@
       logo: https://api.iowen.cn/favicon/1x.com.png
       url: https://1x.com/
       description: 1x 高质量图片需翻墙
+    - title: 高清壁纸
+      logo: https://api.iowen.cn/favicon/wallspic.com.png
+      url: https://wallspic.com/cn
+      description: 高清壁纸，提供手机和pc的高清壁纸
     - title: 阿里巴巴矢量图标库
       logo: https://api.iowen.cn/favicon/www.iconfont.cn.png
       url: https://www.iconfont.cn/
@@ -45,6 +95,10 @@
       logo: https://api.iowen.cn/favicon/unsplash.com.png
       url: https://unsplash.com/
       description: Beautiful Free Images | Unsplash
+    - title: fontawesome icon库
+      logo: https://api.iowen.cn/favicon/fontawesome.com.png
+      url: https://fontawesome.com/v5/search
+      description: icon库，部分免费
     - title: Free stock photos · Pexels
       logo: https://api.iowen.cn/favicon/www.pexels.com.png
       url: https://www.pexels.com/
@@ -161,10 +215,6 @@
       logo: https://api.iowen.cn/favicon/netflixtechblog.com.png
       url: https://netflixtechblog.com/
       description: Netflix TechBlog
-    - title: 爱看不看(aikbuk.com)
-      logo: https://api.iowen.cn/favicon/aikbuk.com.png
-      url: https://aikbuk.com/
-      description: 爱看不看(aikbuk.com)
     - title: java Rsa pkcs#1 加解密及签名验签 · DefNed Blog
       logo: https://api.iowen.cn/favicon/defned.com.png
       url: http://defned.com/post/java-rsa-pkcs1/
@@ -261,6 +311,14 @@
       logo: https://api.iowen.cn/favicon/wangchujiang.com.png
       url: https://wangchujiang.com/
       description: 作者维护了一些有意思的项目。
+    - title: 苹果fans博客
+      logo: https://api.iowen.cn/favicon/mac52ipod.cn.png
+      url: https://www.mac52ipod.cn/
+      description: 该网站围绕苹果生态做的内容
+    - title: zetups
+      logo: https://api.iowen.cn/favicon/zetups.com.png
+      url: https://www.zetups.com/
+      description: 桌面分享网站
 
 - taxonomy: 面试
   icon: fas fa-people-arrows
@@ -510,43 +568,19 @@
       url: https://springdoc.cn/
       description: spring中文文档
     - title: redis命令文档
-      logo: https://api.iowen.cn/favicon/redis.io/commands.png
+      logo: https://api.iowen.cn/favicon/redis.io.png
       url: https://redis.io/commands/
       description: 官网提供的命令文档
+    - title: MDN Web docs
+      logo: https://api.iowen.cn/favicon/developer.mozilla.org.png
+      url: https://developer.mozilla.org/zh-CN/
+      description: 提供了web开发相关的文档，内容权威
+    - title: 网站分析
+      logo: https://api.iowen.cn/favicon/web-check.as93.net.png
+      url: https://web-check.as93.net/
+      description: web网站安全性分析
 
-- taxonomy: 导航
-  icon: far fa-compass
-  links:
-    - title: 小报童导航
-      logo: https://xiaobot.vercel.app/android-chrome-192x192.png
-      url: xiaobot.top
-      description: 小报童导航，发现优秀专栏。
-    - title: 熊猫搜索
-      logo: https://api.iowen.cn/favicon/xmsoushu.com/.png
-      url: https://xmsoushu.com/#/
-      description: XmSearch 熊猫搜索-聚合文档搜索导航
-    - title: 虫部落
-      logo: https://api.iowen.cn/favicon/search.chongbuluo.com.png
-      url: https://search.chongbuluo.com/
-      description: 聚合搜索平台
-    - title: 龙轩导航
-      logo: https://api.iowen.cn/favicon/ilxdh.com.png
-      url: http://ilxdh.com/
-      description: 龙轩导航-做个有用的导航
-    - title: 阿虚同学的储物间
-      logo: https://api.iowen.cn/favicon/axutongxue.com.png
-      url: https://axutongxue.com/
-      description: 包含各种网站资源，软件、影视、学习、导航站等。
-    - title: 电报狗
-      logo: https://api.iowen.cn/favicon/www.smsgou.com.png
-      url: https://www.smsgou.com/
-      description: telegram频道导航网站
-    - title: tg搜索
-      logo: https://api.iowen.cn/favicon/www.sssoou.com.png
-      url: https://www.sssoou.com/
-      description: telegram搜索工具
-
-- taxonomy: 医疗工具
+- taxonomy: 医疗&政务
   icon: fas fa-user-nurse
   links:
     - title: 北京定点医疗机构变更
@@ -569,6 +603,10 @@
       logo: https://api.iowen.cn/favicon/bmfw.www.gov.cn.png
       url: http://bmfw.www.gov.cn/ybypmlcx/index.html
       description: 国家医保药品目录查询
+    - title: 中国执行信息公开网
+      logo: https://api.iowen.cn/favicon/zxgk.court.gov.cn.png
+      url: http://zxgk.court.gov.cn/zhzxgk/
+      description: 查询公开被执行信息
 
 - taxonomy: 开发工具
   icon: fas fa-terminal
@@ -625,6 +663,18 @@
       logo: https://api.iowen.cn/favicon/try.redis.io.png
       url: https://try.redis.io/
       description: redis官网提供的命令测试工具
+    - title: css渐变工具
+      logo: https://api.iowen.cn/favicon/mycolor.space.png
+      url: https://mycolor.space/
+      description: 提供了可视化的css渐变效果
+    - title: css渐变配色方案工具
+      logo: https://api.iowen.cn/favicon/uigradients.com.png
+      url: https://uigradients.com/
+      description: 提供了可视化的css渐变效果
+    - title: css配色方案工具
+      logo: https://api.iowen.cn/favicon/2colors.colorion.co.png
+      url: https://2colors.colorion.co/
+      description: 提供了可视化的css配色方案
 - taxonomy: 其他
   icon: fas fa-life-ring
   links:
