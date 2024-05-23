@@ -119,6 +119,10 @@
       logo: https://api.iowen.cn/favicon/xclient.info.png
       url: http://xclient.info/?t=cfad8b2ee1afeaea2a7ff1636ee280544103cf65
       description: 精品MAC应用分享
+    - title: 努力鸭个人网站
+      logo: https://api.iowen.cn/favicon/www.nuliya.top.png
+      url: https://www.nuliya.top/
+      description: 提供了一些软件破解方法
     - title: awesome-mac
       logo: https://api.iowen.cn/favicon/github.com.png
       url: https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md
@@ -295,6 +299,18 @@
       logo: https://api.iowen.cn/favicon/zetups.com.png
       url: https://www.zetups.com/
       description: 桌面分享网站
+    - title: 鲲灵博客
+      logo: https://api.iowen.cn/favicon/ikunl.com.png
+      url: https://www.ikunl.com/
+      description: 鲲灵博客
+    - title: Noise博客
+      logo: https://api.iowen.cn/favicon/www.noiseblogs.top.png
+      url: https://www.noiseblogs.top/
+      description: Noise博客
+    - title: alyssax个人网站
+      logo: https://api.iowen.cn/favicon/www.alyssax.com.png
+      url: https://www.alyssax.com/
+      description: 独立开发者，已有多款产品发布
 
 - taxonomy: 面试
   icon: fas fa-people-arrows
@@ -355,86 +371,6 @@
 - taxonomy: 折腾
   icon: fas fa-clipboard
   links:
-    - title: Windows10安装ubuntu18.04双系统教程 - 不妨不妨，来日方长 - 博客园
-      logo: https://api.iowen.cn/favicon/www.cnblogs.com.png
-      url: https://www.cnblogs.com/masbay/p/11627727.html
-      description: Windows10安装ubuntu18.04双系统教程 - 不妨不妨，来日方长 - 博客园
-    - title: mac机如何访问ubuntu共享 - 日光之下无新事 - 博客园
-      logo: https://api.iowen.cn/favicon/www.cnblogs.com.png
-      url: https://www.cnblogs.com/sipher/articles/2731462.html
-      description: mac机如何访问ubuntu共享 - 日光之下无新事 - 博客园
-    - title: Ubuntu系统与Mac网络共享文件夹_YMF-MX的博客-CSDN博客_ubuntu登陆mac共享文件夹
-      logo: https://api.iowen.cn/favicon/blog.csdn.net.png
-      url: https://blog.csdn.net/ACM_BMW/article/details/107136991
-      description: Ubuntu系统与Mac网络共享文件夹_YMF-MX的博客-CSDN博客_ubuntu登陆mac共享文件夹
-    - title: Mac实现多个版本的JDK环境切换 - 宏冶的博客
-      logo: https://api.iowen.cn/favicon/blog.csdn.net.png
-      url: https://blog.csdn.net/qq_36182135/article/details/83338274
-      description: Mac实现多个版本的JDK环境切换 - 宏冶的博客
-    - title: 最受欢迎的Linux发行版, Manjaro折腾全记录（超长超详细） - 简书
-      logo: https://api.iowen.cn/favicon/www.jianshu.com.png
-      url: https://www.jianshu.com/p/21c39bc4dd31
-      description: 最受欢迎的Linux发行版, Manjaro折腾全记录（超长超详细） - 简书
-    - title: 玩转 Windows 自带的 Linux 子系统 （图文指南） - 知乎
-      logo: https://api.iowen.cn/favicon/zhuanlan.zhihu.com.png
-      url: https://zhuanlan.zhihu.com/p/258563812?utm_oi=975392682864050176
-      description: 玩转 Windows 自带的 Linux 子系统 （图文指南） - 知乎
-    - title: confluence安装配置完整记录 - janehost - 博客园
-      logo: https://api.iowen.cn/favicon/www.cnblogs.com.png
-      url: https://www.cnblogs.com/LOVEYU/p/13684158.html
-      description: confluence安装配置完整记录 - janehost - 博客园
-    - title: Confluence安装教程 - 知乎
-      logo: https://api.iowen.cn/favicon/zhuanlan.zhihu.com/p/77064169?from_voters_page=tru.png
-      url: https://zhuanlan.zhihu.com/p/77064169?from_voters_page=true
-      description: Confluence安装教程 - 知乎
-    - title: Atlassian系列产品及插件激活方法[JIRA8.19.0+] | 知了
-      logo: https://api.iowen.cn/favicon/zhile.io/2018/12/20/atlassian-license-crack.htm.png
-      url: https://zhile.io/2018/12/20/atlassian-license-crack.html
-      description: Atlassian系列产品及插件激活方法[JIRA8.19.0+] | 知了
-    - title: IntelliJ IDEA2021.3 最新版本 补丁+激活码 永久破解 到2099年 免费教程 - ide激活网
-      logo: https://api.iowen.cn/favicon/blog.idejihuo.com/jetbrains/intellij-idea2021-3-latest-version-permanent-hack-to-2099-free-tutorials-fine-agent.htm.png
-      url: http://blog.idejihuo.com/jetbrains/intellij-idea2021-3-latest-version-permanent-hack-to-2099-free-tutorials-fine-agent.html
-      description: IntelliJ IDEA2021.3 最新版本 补丁+激活码 永久破解 到2099年 免费教程 - ide激活网
-    - title: 最新IntelliJ IDEA永久激活码_idea2021.2激活码_注册码_激活码教程_PyCharm激活码_WebStorm激活码_IDE破解教程 | IDE激活网 - www.idejihuo.com
-      logo: https://api.iowen.cn/favicon/www.idejihuo.com.png
-      url: http://www.idejihuo.com/
-      description: 最新IntelliJ IDEA永久激活码_idea2021.2激活码_注册码_激活码教程_PyCharm激活码_WebStorm激活码_IDE破解教程 | IDE激活网 - www.idejihuo.com
-    - title: Jetbrains系列产品重置试用方法 | 知了
-      logo: https://api.iowen.cn/favicon/zhile.io/2020/11/18/jetbrains-eval-reset-da33a93d.htm.png
-      url: https://zhile.io/2020/11/18/jetbrains-eval-reset-da33a93d.html
-      description: Jetbrains系列产品重置试用方法 | 知了
-    - title: 介绍一个牛逼闪闪"开源库：ja-netfilter | 知了"
-      logo: https://api.iowen.cn/favicon/zhile.io/2021/11/29/ja-netfilter-javaagent-lib.htm.png
-      url: https://zhile.io/2021/11/29/ja-netfilter-javaagent-lib.html
-      description: 介绍一个牛逼闪闪"开源库：ja-netfilter | 知了"
-    - title: ja-netfilter激活idea详细教程
-      logo: https://api.iowen.cn/favicon/www.jiweichengzhu.com/article/91b3e350b8a14c5fb3f3feaf4ea4c4a.png
-      url: https://www.jiweichengzhu.com/article/91b3e350b8a14c5fb3f3feaf4ea4c4a7
-      description: ja-netfilter激活idea详细教程
-    - title: Issues · lqqyt2423/wechat_spider
-      logo: https://api.iowen.cn/favicon/github.com/lqqyt2423/wechat_spider/issue.png
-      url: https://github.com/lqqyt2423/wechat_spider/issues
-      description: Issues · lqqyt2423/wechat_spider
-    - title: 持续更新，微信公众号文章批量采集系统的构建 - 知乎
-      logo: https://api.iowen.cn/favicon/zhuanlan.zhihu.com/p/2430204.png
-      url: https://zhuanlan.zhihu.com/p/24302048
-      description: 持续更新，微信公众号文章批量采集系统的构建 - 知乎
-    - title: 谁能解释下，具体怎么操作？ · Issue #38 · wnma3mz/wechat_articles_spider
-      logo: https://api.iowen.cn/favicon/github.com/wnma3mz/wechat_articles_spider/issues/3.png
-      url: https://github.com/wnma3mz/wechat_articles_spider/issues/38
-      description: 谁能解释下，具体怎么操作？ · Issue #38 · wnma3mz/wechat_articles_spider
-    - title: 锐捷多拨
-      logo: https://api.iowen.cn/favicon/github.com/tkkcc/mentohus.png
-      url: https://github.com/tkkcc/mentohust
-      description: 锐捷多拨
-    - title: 小米路由器4A千兆版
-      logo: https://api.iowen.cn/favicon/openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition.png
-      url: https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition"
-      description: 小米路由器4A千兆版
-    - title: 小米4A（r4a）千兆路由器刷固件之小白篇 - OPENWRT专版 - 恩山无线论坛 - Powered by Discuz!
-      logo: https://api.iowen.cn/favicon/www.right.com.cn/FORUM/thread-4411791-1-1.htm.png
-      url: https://www.right.com.cn/FORUM/thread-4411791-1-1.html
-      description: 小米4A（r4a）千兆路由器刷固件之小白篇 - OPENWRT专版 - 恩山无线论坛 - Powered by Discuz!
     - title: Rufus - 轻松创建USB启动盘
       logo: https://api.iowen.cn/favicon/rufus.ie/zh.png
       url: https://rufus.ie/zh/
@@ -443,9 +379,6 @@
       logo: https://api.iowen.cn/favicon/kuboard.cn/install/install-k8s.html#%E7%A7%BB%E9%99%A4worker%E8%8A%82%E7%82%B9%E5%B9%B6%E9%87%8D%E8%AF%9.png
       url: https://kuboard.cn/install/install-k8s.html#%E7%A7%BB%E9%99%A4worker%E8%8A%82%E7%82%B9%E5%B9%B6%E9%87%8D%E8%AF%95
       description: 使用kubeadm安装kubernetes_v1.21.x | Kuboard
-    - title: (23条消息) Ubuntu18.04 Kubernetes安装02_u014563974的博客-CSDN博客"
-      logo: https://api.iowen.cn/favicon/blog.csdn.net/u014563974/article/details/105276004?spm=1001.2014.3001.5502.png
-      url: https://blog.csdn.net/u014563974/article/details/105276004?spm=1001.2014.3001.5502"
       description: (23条消息) Ubuntu18.04 Kubernetes安装02_u014563974的博客-CSDN博客"
     - title: 其他 | RSSHub
       logo: https://api.iowen.cn/favicon/docs.rsshub.app/other.html#acwifi-lu-you-qi-jiao-li.png
@@ -455,18 +388,6 @@
       logo: https://api.iowen.cn/favicon/github.com/HenryQW/Awesome-TTRS.png
       url: https://github.com/HenryQW/Awesome-TTRSS
       description: 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
-    - title: huginn – huginn，抓取网页全文，抓取微信公众号，自动触发任务，定时监控网页变化，价格变化提醒，比IFTTT更强大的互联网自动化任务平台！
-      logo: https://api.iowen.cn/favicon/huginn.cn.png
-      url: https://huginn.cn/
-      description: huginn – huginn，抓取网页全文，抓取微信公众号，自动触发任务，定时监控网页变化，价格变化提醒，比IFTTT更强大的互联网自动化任务平台！
-    - title: 介绍 | RSSHub
-      logo: https://api.iowen.cn/favicon/docs.rsshub.app.png
-      url: https://docs.rsshub.app/
-      description: 介绍 | RSSHub
-    - title: 知道RSS的人越少，我就越希望它能被人知道！
-      logo: https://api.iowen.cn/favicon/mp.weixin.qq.com/s/fUOj5cU7bVRMPdBwHXlUV.png
-      url: https://mp.weixin.qq.com/s/fUOj5cU7bVRMPdBwHXlUVA
-      description: 知道RSS的人越少，我就越希望它能被人知道！
     - title: 好玩的docker项目
       logo: https://api.iowen.cn/favicon/prclub.notion.site/f51a89e1aab647f395032469f939d088?v=78500f51818f47dd9b64891b84214b0e&p=fc74ba5cb6f74c5c8117ceabb046e74c&pm=.png
       url: https://prclub.notion.site/f51a89e1aab647f395032469f939d088?v=78500f51818f47dd9b64891b84214b0e&p=fc74ba5cb6f74c5c8117ceabb046e74c&pm=s
@@ -515,8 +436,10 @@
       logo: https://api.iowen.cn/favicon/developer.mozilla.org.png
       url: https://developer.mozilla.org/zh-CN/
       description: 提供了web开发相关的文档，内容权威
-
-
+    - title: dochub
+      logo: https://api.iowen.cn/favicon/www.dochub.wiki.png
+      url: https://www.dochub.wiki/
+      description: 优质文档分享站
 - taxonomy: 医疗&政务
   icon: fas fa-user-nurse
   links:
@@ -612,10 +535,26 @@
       logo: https://api.iowen.cn/favicon/2colors.colorion.co.png
       url: https://2colors.colorion.co/
       description: 提供了可视化的css配色方案
+    - title: linux安装包网站
+      logo: https://api.iowen.cn/favicon/pkgs.org/.png
+      url: https://pkgs.org/
+      description: 提供了unix和linux平台软件安装包，方便离线安装
+    - title: github profile模板网站
+      logo: https://api.iowen.cn/favicon/githubprofile.com/.png
+      url: https://githubprofile.com/
+      description: profile模板网站，可根据模板生成github项目的readme文件
+    - title: svg图标网站
+      logo: https://api.iowen.cn/favicon/svgl.app/.png
+      url: https://svgl.app/
+      description: svg图标网站 侧重公司的品牌和产品的logo
 - taxonomy: 其他
   icon: fas fa-life-ring
   links:
     - title: 城市选择工具
-      logo: "https://api.iowen.cn/favicon/guxiang.app/.png"
+      logo: https://api.iowen.cn/favicon/guxiang.app/.png
       url: https://guxiang.app/
       description: 明日故乡|中国版数字游民指南
+    - title: jetbrains激活码网站
+      logo: https://api.iowen.cn/favicon/3.jetbra.in/.png
+      url: https://3.jetbra.in/
+      description: jetbrains激活码网站 支持idea等软件激活
