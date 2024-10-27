@@ -42,32 +42,35 @@
 
                         {{ if not (eq $.Site.Params.qweather.key "") }}
                         <div class="rounded-circle weather">
-                            <div id="he-plugin-simple" style="display: contents;"></div>
-                            <script>WIDGET = {
-                                    CONFIG: {
-                                        "modules": "01234",
-                                        "background": 5,
-                                        "tmpColor": "E4C600",
-                                        "tmpSize": 14,
-                                        "cityColor": "E4C600",
-                                        "citySize": 14,
-                                        "aqiColor": "#E4C600",
-                                        "aqiSize": 14,
-                                        "weatherIconSize": 24,
-                                        "alertIconSize": 18,
-                                        "padding": "10px 10px 10px 10px",
-                                        "shadow": "1",
-                                        "language": "auto",
-                                        "borderRadius": 5,
-                                        "fixed": "false",
-                                        "vertical": "middle",
-                                        "horizontal": "left",
-                                        "key": "{{ $.Site.Params.qweather.key }}"
-                                    }
-                                }
-                            </script>
-                            <script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
+                            <iframe loading="lazy" scrolling="no" src="https://widget.tianqiapi.com/?style=tx&skin=cherry&align=center&color=ffffff&paddingtop=8&fontsiz=8" frameborder="0" width="100%" height="30" allowtransparency="true"></iframe>
                         </div>
+<!--                        <div class="rounded-circle weather">-->
+<!--                            <div id="he-plugin-simple" style="display: contents;"></div>-->
+<!--                            <script>WIDGET = {-->
+<!--                                    CONFIG: {-->
+<!--                                        "modules": "01234",-->
+<!--                                        "background": 5,-->
+<!--                                        "tmpColor": "E4C600",-->
+<!--                                        "tmpSize": 14,-->
+<!--                                        "cityColor": "E4C600",-->
+<!--                                        "citySize": 14,-->
+<!--                                        "aqiColor": "#E4C600",-->
+<!--                                        "aqiSize": 14,-->
+<!--                                        "weatherIconSize": 24,-->
+<!--                                        "alertIconSize": 18,-->
+<!--                                        "padding": "10px 10px 10px 10px",-->
+<!--                                        "shadow": "1",-->
+<!--                                        "language": "auto",-->
+<!--                                        "borderRadius": 5,-->
+<!--                                        "fixed": "false",-->
+<!--                                        "vertical": "middle",-->
+<!--                                        "horizontal": "left",-->
+<!--                                        "key": "{{ $.Site.Params.qweather.key }}"-->
+<!--                                    }-->
+<!--                                }-->
+<!--                            </script>-->
+<!--                            <script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>-->
+<!--                        </div>-->
                         {{ end }}
                     </div>
 
@@ -84,7 +87,7 @@
                                     hitokoto.innerText = data.hitokoto
                                     })
                                     .catch(console.error)
-                            </script>                           
+                            </script>
                             <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">疏影横斜水清浅，暗香浮动月黄昏。</a></div>
                         </li>
                         {{ end }}
