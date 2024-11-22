@@ -4,23 +4,23 @@
   icon: far fa-compass
   links:
     - title: 熊猫搜索
-      logo: https://api.iowen.cn/favicon/xmsoushu.com/.png
+      logo: xmsoushu.com.jpg
       url: https://xmsoushu.com/#/
       description: XmSearch 熊猫搜索-聚合文档搜索导航
     - title: 虫部落
-      logo: https://api.iowen.cn/favicon/search.chongbuluo.com.png
+      logo: search.chongbuluo.com.jpg
       url: https://search.chongbuluo.com/
       description: 聚合搜索平台
     - title: 龙轩导航
-      logo: https://api.iowen.cn/favicon/ilxdh.com.png
+      logo: ilxdh.com.jpg
       url: http://ilxdh.com/
       description: 龙轩导航-做个有用的导航
     - title: 阿虚同学的储物间
-      logo: https://api.iowen.cn/favicon/axutongxue.com.png
+      logo: axutongxue.com.jpg
       url: https://axutongxue.com/
       description: 包含各种网站资源，软件、影视、学习、导航站等。
     - title: 产品经理导航站
-      logo: https://api.iowen.cn/favicon/pmbaobao.com.png
+      logo: pmbaobao.com.jpg
       url: https://www.pmbaobao.com/
       description: 产品经理导航站
 
@@ -28,41 +28,41 @@
 - taxonomy: 在线工具
   icon: fas fa-tools
   links:
-#    - title: 关注我们
-#      logo: ""
-#      url: https://baidu.com
-#      # qrcode: assets/images/logos/qrcode.jpg
-#      description: BioIT 爱好者！
+    #    - title: 关注我们
+    #      logo: ""
+    #      url: https://baidu.com
+    #      # qrcode: assets/images/logos/qrcode.jpg
+    #      description: BioIT 爱好者！
     - title: 腾讯帮小忙 轻松办公，工具助你一臂之力
-      logo: https://api.iowen.cn/favicon/tool.browser.qq.com.png
+      logo: tool.browser.qq.com.jpg
       url: https://tool.browser.qq.com/
       description: 腾讯帮小忙 轻松办公，工具助你一臂之力
     - title: 在线简历制作
-      logo: https://api.iowen.cn/favicon/www.500d.me.png
+      logo: www.500d.me.jpg
       url: http://www.500d.me/editresume/
       description: 在线简历制作
     - title: 文件格式转换
-      logo: https://api.iowen.cn/favicon/cn.office-converter.com.png
+      logo: cn.office-converter.com.jpg
       url: https://cn.office-converter.com
       description: 文件格式转换
-#    - title: PerfMa - Java虚拟机参数分析
-#      logo: https://api.iowen.cn/favicon/perfma.com.png
-#      url: https://opts.console.perfma.com/
-#      description: PerfMa - Java虚拟机参数分析
+    #    - title: PerfMa - Java虚拟机参数分析
+    #      perfma.com.jpg
+    #      url: https://opts.console.perfma.com/
+    #      description: PerfMa - Java虚拟机参数分析
     - title: 在线ps网站
-      logo: https://api.iowen.cn/favicon/photopea.com.png
+      logo: photopea.com.jpg
       url: https://www.photopea.com/
       description: 在线ps网站
     - title: z-library
-      logo: https://api.iowen.cn/favicon/z-library.se.png
+      logo: z-library.se.jpg
       url: https://zh.z-library.se/
       description: 在线书库
     - title: 站长工具
-      logo: https://api.iowen.cn/favicon/aizhan.com.png
+      logo: aizhan.com.jpg
       url: https://www.aizhan.com/
       description: 提供网站相关信息查询工具
     - title: 百川云常用工具
-      logo: https://api.iowen.cn/favicon/rivers.chaitin.cn.png
+      logo: rivers.chaitin.cn.jpg
       url: https://rivers.chaitin.cn/tools/
       description: 开发常用小工具、数据生图等
 
@@ -73,115 +73,115 @@
   icon: fas fa-magic
   links:
     - title: 1x 高质量图片需翻墙
-      logo: https://api.iowen.cn/favicon/1x.com.png
+      logo: 1x.com.jpg
       url: https://1x.com/
       description: 1x 高质量图片需翻墙
     - title: 高清壁纸
-      logo: https://api.iowen.cn/favicon/wallspic.com.png
+      logo: wallspic.com.jpg
       url: https://wallspic.com/cn
       description: 高清壁纸，提供手机和pc的高清壁纸
     - title: 哲风壁纸
-      logo: https://api.iowen.cn/favicon/haowallpaper.com.png
+      logo: haowallpaper.com.jpg
       url: https://haowallpaper.com/
       description: 电脑壁纸、手机壁纸、头像制作
     - title: 阿里巴巴矢量图标库
-      logo: https://api.iowen.cn/favicon/www.iconfont.cn.png
+      logo: www.iconfont.cn.jpg
       url: https://www.iconfont.cn/
       description: 阿里巴巴矢量图标库
     - title: 惊人的免费图片 · Pixabay
-      logo: https://api.iowen.cn/favicon/pixabay.com.png
+      logo: pixabay.com.jpg
       url: https://pixabay.com/
       description: 惊人的免费图片 · Pixabay
     - title: Beautiful Free Images | Unsplash
-      logo: https://api.iowen.cn/favicon/unsplash.com.png
+      logo: unsplash.com.jpg
       url: https://unsplash.com/
       description: Beautiful Free Images | Unsplash
     - title: fontawesome icon库
-      logo: https://api.iowen.cn/favicon/fontawesome.com.png
+      logo: fontawesome.com.jpg
       url: https://fontawesome.com/v5/search
       description: icon库，部分免费
     - title: Free stock photos · Pexels
-      logo: https://api.iowen.cn/favicon/www.pexels.com.png
+      logo: www.pexels.com.jpg
       url: https://www.pexels.com/
       description: Free stock photos · Pexels
     - title: Software Informer
-      logo: https://api.iowen.cn/favicon/informer.com.png
+      logo: informer.com.jpg
       url: http://software.informer.com/search/disk
       description: Software Informer
     - title: MSDN, 我告诉你
-      logo: https://api.iowen.cn/favicon/msdn.itellyou.cn.png
+      logo: msdn.itellyou.cn.jpg
       url: https://msdn.itellyou.cn/
       description: MSDN, 我告诉你
     - title: pc软件下载站
-      logo: https://api.iowen.cn/favicon/www.uzzf.com.png
+      logo: www.uzzf.com.jpg
       url: http://www.uzzf.com/pc/
       description: pc软件下载站_东坡电脑软件下载中心|打造最安全最新的免费软件下载站
     - title: 最全的微软msdn原版windows系统镜像和office下载地址集锦-网络教程与技术 -亦是美网络
-      logo: https://api.iowen.cn/favicon/yishimei.cn.png
+      logo: yishimei.cn.jpg
       url: http://www.yishimei.cn/network/290.html?=microkms_17.06.25
       description: 最全的微软msdn原版windows系统镜像和office下载地址集锦-网络教程与技术 -亦是美网络
     - title: 精品MAC应用分享
-      logo: https://api.iowen.cn/favicon/xclient.info.png
+      logo: xclient.info.jpg
       url: http://xclient.info/?t=cfad8b2ee1afeaea2a7ff1636ee280544103cf65
       description: 精品MAC应用分享
     - title: 努力鸭个人网站
-      logo: https://api.iowen.cn/favicon/www.nuliya.top.png
+      logo: www.nuliya.top.jpg
       url: https://www.nuliya.top/
       description: 提供了一些软件破解方法
     - title: awesome-mac
-      logo: https://api.iowen.cn/favicon/github.com.png
+      logo: github.com.jpg
       url: https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md
       description: github 项目 awesome-mac
     - title: 易破解 | 给你所需要的内容
-      logo: https://api.iowen.cn/favicon/www.yipojie.cn.png
+      logo: www.yipojie.cn.jpg
       url: http://www.yipojie.cn/
       description: 易破解 | 给你所需要的内容YIPOJIE.CN！
     - title: 乐软博客
-      logo: https://api.iowen.cn/favicon/www.isharepc.com.png
+      logo: www.isharepc.com.jpg
       url: https://www.isharepc.com/
       description: 乐软博客
     - title: AlternativeTo-同类软件替代方案
-      logo: https://api.iowen.cn/favicon/alternativeto.net.png
+      logo: alternativeto.net.jpg
       url: https://alternativeto.net/
       description: AlternativeTo-同类软件替代方案
     - title: Electron Apps | Electron
-      logo: https://api.iowen.cn/favicon/www.electronjs.org/app.png
+      logo: www.electronjs.org.jpg
       url: https://www.electronjs.org/apps
       description: Electron Apps | Electron
     - title: 伽卡他卡免费电子教室软件
-      logo: https://api.iowen.cn/favicon/www.gakataka.com/netclas.png
+      logo: www.gakataka.com.jpg
       url: http://www.gakataka.com/netclass
       description: 伽卡他卡免费电子教室软件
     - title: downloader - Windows Apps That Amaze Us
-      logo: https://api.iowen.cn/favicon/amazing-apps.gitbook.io.png
+      logo: amazing-apps.gitbook.io.jpg
       url: https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-tw/downloader#hardseed
       description: downloader - Windows Apps That Amaze Us
     - title: 云原生资料库
-      logo: https://api.iowen.cn/favicon/lib.jimmysong.io.png
+      logo: lib.jimmysong.io.jpg
       url: https://lib.jimmysong.io/
       description: 云原生资料库
     - title: 书栈网
-      logo: https://api.iowen.cn/favicon/www.bookstack.cn.png
+      logo: www.bookstack.cn.jpg
       url: https://www.bookstack.cn/
       description: 书栈网 · BookStack_程序员IT互联网开源编程书籍免费阅读，助您【码】力十足！
     - title: 易搜
-      logo: https://api.iowen.cn/favicon/yiso.fun.png
+      logo: yiso.fun.jpg
       url: https://yiso.fun/
       description: 阿里云盘资源搜索
     - title: 云盘搜索
-      logo: https://api.iowen.cn/favicon/pan.ccof.cc.png
+      logo: pan.ccof.cc.jpg
       url: https://pan.ccof.cc/
       description: 阿里云盘资源搜索
     - title: 小纸条
-      logo: https://api.iowen.cn/favicon/u.gitcafe.net.png
+      logo: u.gitcafe.net.jpg
       url: https://u.gitcafe.net/
       description: 阿里云盘搜索
     - title: 阿里搜
-      logo: https://api.iowen.cn/favicon/aliso.cc.png
+      logo: aliso.cc.jpg
       url: https://aliso.cc/
       description: 阿里云盘资源搜索
     - title: mac软件资源
-      logo: https://api.iowen.cn/favicon/macwk.com.cn.png
+      logo: macwk.com.cn.jpg
       url: https://macwk.com.cn/
       description: mac软件资源
 
@@ -189,139 +189,139 @@
   icon: fab fa-hive
   links:
     - title: imxushuai
-      logo: https://api.iowen.cn/favicon/www.imxushuai.com.png
+      logo: www.imxushuai.com.jpg
       url: https://www.imxushuai.com/
       description: 学习总结、Java毕业设计项目集合
     - title: 田小波的技术博客
-      logo: https://api.iowen.cn/favicon/www.tianxiaobo.com.png
+      logo: www.tianxiaobo.com.jpg
       url: http://www.tianxiaobo.com/
       description: 田小波的技术博客
     - title: Welcome to xuxueli_s website
-      logo: https://api.iowen.cn/favicon/www.xuxueli.com.png
+      logo: www.xuxueli.com.jpg
       url: http://www.xuxueli.com/index.html
       description: Welcome to xuxueli_s website
     - title: crossoverJie, Java - crossoverJie_s Blog - You never know what you can do till you try.
-      logo: https://api.iowen.cn/favicon/crossoverjie.top.png
+      logo: crossoverjie.top.jpg
       url: https://crossoverjie.top/
       description: crossoverJie, Java - crossoverJie_s Blog - You never know what you can do till you try.
     - title: 张开涛
-      logo: https://api.iowen.cn/favicon/www.iteye.com.png
+      logo: www.iteye.com.jpg
       url: https://www.iteye.com/blog/user/jinnianshilongnian
       description: 张开涛
     - title: 酷壳 – CoolShell.cn
-      logo: https://api.iowen.cn/favicon/coolshell.cn.png
+      logo: coolshell.cn.jpg
       url: https://coolshell.cn/
       description: 酷壳 – CoolShell.cn
     - title: Netflix TechBlog
-      logo: https://api.iowen.cn/favicon/netflixtechblog.com.png
+      logo: netflixtechblog.com.jpg
       url: https://netflixtechblog.com/
       description: Netflix TechBlog
     - title: ningg.top | NingG 个人博客
-      logo: https://api.iowen.cn/favicon/ningg.top.png
+      logo: ningg.top.jpg
       url: http://ningg.top/
       description: ningg.top | NingG 个人博客
     - title: 斐讯n1记录
-      logo: https://api.iowen.cn/favicon/xsinger.me.png
+      logo: xsinger.me.jpg
       url: https://xsinger.me/
       description: 斐讯n1记录
     - title: Java技术江湖
-      logo: https://api.iowen.cn/favicon/how2playlife.com.png
+      logo: how2playlife.com.jpg
       url: https://how2playlife.com/
       description: Java技术江湖
     - title: PassJava文档
-      logo: https://api.iowen.cn/favicon/www.passjava.cn.png
+      logo: www.passjava.cn.jpg
       url: http://www.passjava.cn/#/
       description: PassJava文档
     - title: Vamei - 博客园
-      logo: https://api.iowen.cn/favicon/www.cnblogs.com.png
+      logo: www.cnblogs.com.jpg
       url: https://www.cnblogs.com/vamei/
       description: Vamei - 博客园
     - title: MacTalk
-      logo: https://api.iowen.cn/favicon/macshuo.com.png
+      logo: macshuo.com.jpg
       url: http://macshuo.com/
       description: MacTalk-池建强的随想录 | 关注技术和人文
     - title: 徐靖峰|个人博客
-      logo: https://api.iowen.cn/favicon/www.cnkirito.moe.png
+      logo: www.cnkirito.moe.jpg
       url: https://www.cnkirito.moe/
       description: 徐靖峰|个人博客
     - title: Ben Eater - 计算机diy达人
-      logo: https://api.iowen.cn/favicon/eater.net.png
+      logo: eater.net.jpg
       url: https://eater.net/
       description: Ben Eater - 计算机diy达人
     - title: 归档 | Jark_s Blog
-      logo: https://api.iowen.cn/favicon/wuchong.me.png
+      logo: wuchong.me.jpg
       url: http://wuchong.me/archives/
       description: 归档 | Jark_s Blog
     - title: Hi, DIYgod
-      logo: https://api.iowen.cn/favicon/diygod.me.png
+      logo: diygod.me.jpg
       url: https://diygod.me/
       description: Hi, DIYgod
     - title: Mark_s Blog - Quchao.net - 彪悍做事，温柔生活
-      logo: https://api.iowen.cn/favicon/quchao.net.png
+      logo: quchao.net.jpg
       url: https://quchao.net/
       description: Mark_s Blog - Quchao.net - 彪悍做事，温柔生活
     - title: 06-ES6：箭头函数 | 千古前端图文教程
-      logo: https://api.iowen.cn/favicon/web.qianguyihao.com.png
+      logo: web.qianguyihao.com.jpg
       url: https://web.qianguyihao.com/05-JavaScript%E5%9F%BA%E7%A1%80%EF%BC%9AES6%E8%AF%AD%E6%B3%95/06-ES6%EF%BC%9A%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0.html#%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0%E7%9A%84-this-%E6%8C%87%E5%90%91
       description: 06-ES6：箭头函数 | 千古前端图文教程
     - title: shark blog
-      logo: https://api.iowen.cn/favicon/dictionary.sharkchili.xyz.png
+      logo: dictionary.sharkchili.xyz.jpg
       url: http://dictionary.sharkchili.xyz/#/
       description: shark blog
     - title: MyBatis教程
-      logo: https://api.iowen.cn/favicon/www.mybatis.cn.png
+      logo: www.mybatis.cn.jpg
       url: http://www.mybatis.cn/
       description: MyBatis教程
     - title: 胡涛的个人网站
-      logo: https://api.iowen.cn/favicon/www.danielhu.cn.png
+      logo: www.danielhu.cn.jpg
       url: https://www.danielhu.cn/
       description: 胡涛的个人网站
     - title: sleele的博客
-      logo: https://api.iowen.cn/favicon/sleele.com.png
+      logo: sleele.com.jpg
       url: https://sleele.com/
       description: sleele的博客
     - title: 哈喽沃德先生
-      logo: https://api.iowen.cn/favicon/www.mrhelloworld.com.png
+      logo: www.mrhelloworld.com.jpg
       url: https://www.mrhelloworld.com/
       description: 哈喽沃德先生
     - title: 苏洋博客
-      logo: https://api.iowen.cn/favicon/soulteary.com.png
+      logo: soulteary.com.jpg
       url: https://soulteary.com/
       description: 苏洋博客
     - title: 老苏的blog
-      logo: https://api.iowen.cn/favicon/laosu.ml.png
+      logo: laosu.ml.jpg
       url: https://laosu.ml/
       description: 老苏的blog
     - title: 阿正的个人博客
-      logo: https://api.iowen.cn/favicon/wenzheng.club.png
+      logo: wenzheng.club.jpg
       url: http://wenzheng.club/
       description: 嵌入式相关博客
     - title: 小弟调调
-      logo: https://api.iowen.cn/favicon/wangchujiang.com.png
+      logo: wangchujiang.com.jpg
       url: https://wangchujiang.com/
       description: 作者维护了一些有意思的项目。
     - title: 苹果fans博客
-      logo: https://api.iowen.cn/favicon/mac52ipod.cn.png
+      logo: mac52ipod.cn.jpg
       url: https://www.mac52ipod.cn/
       description: 该网站围绕苹果生态做的内容
     - title: zetups
-      logo: https://api.iowen.cn/favicon/zetups.com.png
+      logo: zetups.com.jpg
       url: https://www.zetups.com/
       description: 桌面分享网站
     - title: 鲲灵博客
-      logo: https://api.iowen.cn/favicon/ikunl.com.png
+      logo: ikunl.com.jpg
       url: https://www.ikunl.com/
       description: 鲲灵博客
     - title: Noise博客
-      logo: https://api.iowen.cn/favicon/www.noiseblogs.top.png
+      logo: www.noiseblogs.top.jpg
       url: https://www.noiseblogs.top/
       description: Noise博客
     - title: alyssax个人网站
-      logo: https://api.iowen.cn/favicon/www.alyssax.com.png
+      logo: www.alyssax.com.jpg
       url: https://www.alyssax.com/
       description: 独立开发者，已有多款产品发布
     - title: 熊猫君个人博客
-      logo: https://api.iowen.cn/favicon/pandaychen.github.io.png
+      logo: pandaychen.github.io.jpg
       url: https://pandaychen.github.io/
       description: 微服务、go、openssh
 
@@ -329,55 +329,55 @@
   icon: fas fa-people-arrows
   links:
     - title: 关于Java 面试，你应该准备这些知识点
-      logo: https://api.iowen.cn/favicon/mp.weixin.qq.com.png
+      logo: mp.weixin.qq.com.jpg
       url: http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651479707&idx=1&sn=00e9beb3a28d40ede6a93463ed89564d&chksm=bd2532e48a52bbf2469ff6b41d1c1f5dc0a3af9a6989cdbd59cca28c50b84e37133725f6a6fd&mpshare=1&scene=23&srcid=0103zzmQNfiNNBIO6RNS9Mgo#rd
       description: 关于Java 面试，你应该准备这些知识点
     - title: 互联网 Java 工程师进阶知识完全扫盲
-      logo: https://api.iowen.cn/favicon/doocs.github.io.png
+      logo: doocs.github.io.jpg
       url: https://doocs.github.io/advanced-java/#/
       description: 互联网 Java 工程师进阶知识完全扫盲
     - title: Java工程师成神之路
-      logo: https://api.iowen.cn/favicon/hollischuang.github.io.png
+      logo: hollischuang.github.io.jpg
       url: https://hollischuang.github.io/toBeTopJavaer/#/menu
       description: Java工程师成神之路
     - title: 【🌱🌱Java服务端知识技能图谱】
-      logo: https://api.iowen.cn/favicon/github.com.png
+      logo: github.com.jpg
       url: https://github.com/caison/java-knowledge-mind-map
       description: 【🌱🌱Java服务端知识技能图谱】
     - title: JavaGuide知识星球精选（截止20220216） · 语雀
-      logo: https://api.iowen.cn/favicon/www.yuque.com.png
+      logo: www.yuque.com.jpg
       url: https://www.yuque.com/docs/share/8eac416c-b42b-4803-b691-43a04e384216?#5198b57a
       description: JavaGuide知识星球精选（截止20220216） · 语雀
     - title: Ashiamd的个人MD笔记
-      logo: https://api.iowen.cn/favicon/ashiamd.github.io.png
+      logo: ashiamd.github.io.jpg
       url: https://ashiamd.github.io/docsify-notes/#/
       description: Ashiamd的个人MD笔记
     - title: 小林coding，计算机类教程
-      logo: https://api.iowen.cn/favicon/www.xiaolincoding.com.png
+      logo: www.xiaolincoding.com.jpg
       url: https://www.xiaolincoding.com/
       description: 小林coding，计算机类教程
     - title: Shark Chili 计算机类教程
-      logo: https://api.iowen.cn/favicon/www.sharkchili.com.png
+      logo: www.sharkchili.com.jpg
       url: https://www.sharkchili.com/
       description: Shark Chili 计算机类教程
     - title: LABULADONG 的算法网站
-      logo: https://api.iowen.cn/favicon/labuladong.gitee.io.png
+      logo: labuladong.gitee.io.jpg
       url: https://labuladong.gitee.io/algo/
       description: LABULADONG 的算法网站
     - title: 算法题解
-      logo: https://api.iowen.cn/favicon/doocs.github.io.png
+      logo: doocs.github.io.jpg
       url: https://doocs.github.io/leetcode/#/
       description: 算法题解
     - title: Java 全栈知识体系
-      logo: https://api.iowen.cn/favicon/www.pdai.tech.png
+      logo: www.pdai.tech.jpg
       url: https://www.pdai.tech/
       description: Java 全栈知识体系
     - title: javaguide
-      logo: https://api.iowen.cn/favicon/javaguide.cn.png
+      logo: javaguide.cn.jpg
       url: https://javaguide.cn
       description: java相关面试知识点总结
     - title: 二哥的Java进阶之路
-      logo: https://api.iowen.cn/favicon/javabetter.cn.png
+      logo: javabetter.cn.jpg
       url: https://javabetter.cn/
       description: java面试（java、mysql、redis、kafka、nginx、dubbo）
 
@@ -385,23 +385,23 @@
   icon: fas fa-clipboard
   links:
     - title: Rufus - 轻松创建USB启动盘
-      logo: https://api.iowen.cn/favicon/rufus.ie/zh.png
+      logo: rufus.ie.jpg
       url: https://rufus.ie/zh/
       description: Rufus - 轻松创建USB启动盘
     - title: 使用kubeadm安装kubernetes_v1.21.x | Kuboard
-      logo: https://api.iowen.cn/favicon/kuboard.cn/install/install-k8s.html#%E7%A7%BB%E9%99%A4worker%E8%8A%82%E7%82%B9%E5%B9%B6%E9%87%8D%E8%AF%9.png
+      logo: kuboard.cn.jpg
       url: https://kuboard.cn/install/install-k8s.html#%E7%A7%BB%E9%99%A4worker%E8%8A%82%E7%82%B9%E5%B9%B6%E9%87%8D%E8%AF%95
       description: 使用kubeadm安装kubernetes_v1.21.x | Kuboard
     - title: 其他 | RSSHub
-      logo: https://api.iowen.cn/favicon/docs.rsshub.app/other.html#acwifi-lu-you-qi-jiao-li.png
+      logo: docs.rsshub.app.jpg
       url: https://docs.rsshub.app/other.html#acwifi-lu-you-qi-jiao-liu
       description: 其他 | RSSHub
     - title: Awesome-TTRSS
-      logo: https://api.iowen.cn/favicon/github.com/HenryQW/Awesome-TTRS.png
+      logo: github.com.jpg
       url: https://github.com/HenryQW/Awesome-TTRSS
       description: 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
     - title: 好玩的docker项目
-      logo: https://api.iowen.cn/favicon/prclub.notion.site/f51a89e1aab647f395032469f939d088?v=78500f51818f47dd9b64891b84214b0e&p=fc74ba5cb6f74c5c8117ceabb046e74c&pm=.png
+      logo: prclub.notion.site.jpg
       url: https://prclub.notion.site/f51a89e1aab647f395032469f939d088?v=78500f51818f47dd9b64891b84214b0e&p=fc74ba5cb6f74c5c8117ceabb046e74c&pm=s
       description: 好玩的docker项目
 
@@ -409,86 +409,86 @@
   icon: fas fa-file-alt
   links:
     - title: mlaunch — mtools文档
-      logo: https://api.iowen.cn/favicon/rueckstiess.github.io.png
+      logo: rueckstiess.github.io.jpg
       url: https://rueckstiess.github.io/mtools/mlaunch.html
       description: mlaunch — mtools文档
     - title: redis命令参考文档
-      logo: https://api.iowen.cn/favicon/redisdoc.com.png
+      logo: redisdoc.com.jpg
       url: http://redisdoc.com/
       description: redis命令参考文档
     - title: 个人线上信息备份文档
-      logo: https://api.iowen.cn/favicon/www.yuque.com.png
+      logo: www.yuque.com.jpg
       url: https://www.yuque.com/zhangyuxiang-cqvac/iv1v2g/kbh362rzv70u3vip?singleDoc# 《配置信息表-公开》
       description: 个人线上信息备份文档
     - title: k8s教程
-      logo: https://api.iowen.cn/favicon/kuboard.cn.png
+      logo: kuboard.cn.jpg
       url: https://kuboard.cn/learning/
       description: kuboard提供的k8s教程
     - title: docker从入门到实践
-      logo: https://api.iowen.cn/favicon/yeasy.gitbook.io.png
+      logo: yeasy.gitbook.io.jpg
       url: https://yeasy.gitbook.io/docker_practice/
       description: docker从入门到实践
     - title: 高并发哲学原理
-      logo: https://api.iowen.cn/favicon/lvwenhan.com.png
+      logo: lvwenhan.com.jpg
       url: https://lvwenhan.com/tech-epic/499.html
       description: 高并发相关文章
     - title: FRP
-      logo: https://api.iowen.cn/favicon/gofrp.org.png
+      logo: gofrp.org.jpg
       url: https://gofrp.org/
       description: 内网穿透工具
     - title: spring中文文档
-      logo: https://api.iowen.cn/favicon/springdoc.cn.png
+      logo: springdoc.cn.jpg
       url: https://springdoc.cn/
       description: spring中文文档
     - title: redis命令文档
-      logo: https://api.iowen.cn/favicon/redis.io.png
+      logo: redis.io.jpg
       url: https://redis.io/commands/
       description: 官网提供的命令文档
     - title: MDN Web docs
-      logo: https://api.iowen.cn/favicon/developer.mozilla.org.png
+      logo: developer.mozilla.org.jpg
       url: https://developer.mozilla.org/zh-CN/
       description: 提供了web开发相关的文档，内容权威
     - title: dochub
-      logo: https://api.iowen.cn/favicon/www.dochub.wiki.png
+      logo: www.dochub.wiki.jpg
       url: https://www.dochub.wiki/
       description: 优质文档分享站
     - title: 网道
-      logo: https://api.iowen.cn/favicon/wangdoc.com/.png
+      logo: wangdoc.com.jpg
       url: https://wangdoc.com/
       description: js、ts、bash 等教程
     - title: ES入门教程
-      logo: https://api.iowen.cn/favicon/ruanyifeng.com/.png
+      logo: ruanyifeng.com.jpg
       url: https://es6.ruanyifeng.com/
       description: ES入门教程-阮一峰
     - title: OpenResty 最佳实践
-      logo: https://api.iowen.cn/favicon/moonbingbing.gitbooks.io/.png
+      logo: moonbingbing.gitbooks.io.jpg
       url: https://moonbingbing.gitbooks.io/openresty-best-practices/content/
       description: OpenResty 最佳实践
 - taxonomy: 医疗&政务
   icon: fas fa-user-nurse
   links:
     - title: 北京定点医疗机构变更
-      logo: https://api.iowen.cn/favicon/rsj.beijing.gov.cn.png
+      logo: rsj.beijing.gov.cn.jpg
       url: http://rsj.beijing.gov.cn/csibiz/
       description: 北京定点医疗机构变更
     - title: 北京定点医疗机构查询
-      logo: https://api.iowen.cn/favicon/ybj.beijing.gov.cn.png
+      logo: ybj.beijing.gov.cn.jpg
       url: http://ybj.beijing.gov.cn/2020_zwfw/2020_bmcx/202002/t20200217_1644107.html
       description: 北京定点医疗机构查询
     - title: 北京医院性质查询
-      logo: https://api.iowen.cn/favicon/bjggcx.wsb003.cn.png
+      logo: bjggcx.wsb003.cn.jpg
       url: https://bjggcx.wsb003.cn/Unit/IndexPage
       description: 北京医院性质查询
     - title: 医院专科排行榜
-      logo: https://api.iowen.cn/favicon/rank.cn-healthcare.com.png
+      logo: rank.cn-healthcare.com.jpg
       url: http://rank.cn-healthcare.com/fudan/specialty-general/year/2020/sid/4
       description: 医院专科排行榜
     - title: 国家医保药品目录查询
-      logo: https://api.iowen.cn/favicon/bmfw.www.gov.cn.png
+      logo: bmfw.www.gov.cn.jpg
       url: http://bmfw.www.gov.cn/ybypmlcx/index.html
       description: 国家医保药品目录查询
     - title: 中国执行信息公开网
-      logo: https://api.iowen.cn/favicon/zxgk.court.gov.cn.png
+      logo: zxgk.court.gov.cn.jpg
       url: http://zxgk.court.gov.cn/zhzxgk/
       description: 查询公开被执行信息
 
@@ -496,89 +496,89 @@
   icon: fas fa-terminal
   links:
     - title: 开发助手
-      logo: "https://api.iowen.cn/favicon/devv.ai.png"
+      logo: devv.ai..jpg
       url: https://devv.ai/zh
       description: 最懂程序员的新一代 AI 搜索引擎
     - title: 网站检测工具
-      logo: "https://api.iowen.cn/favicon/boce.aliyun.com/detect/http/.png"
+      logo: boce.aliyun.com.jpg
       url: https://boce.aliyun.com/detect/http
       description: 网站运维检测平台（可检测不同站点对目标网站的连通性以及解析结果）
     - title: 网站分析
-      logo: https://api.iowen.cn/favicon/web-check.as93.net.png
+      logo: web-check.as93.net.jpg
       url: https://web-check.as93.net/
       description: web网站安全性分析
     - title: jQuery插件库
-      logo: https://api.iowen.cn/favicon/www.jq22.com.png
+      logo: www.jq22.com.jpg
       url: http://www.jq22.com/
       description: jQuery插件库
     - title: Ngrok内网穿透服务
-      logo: https://api.iowen.cn/favicon/www.ngrok.cc.png
+      logo: www.ngrok.cc.jpg
       url: https://www.ngrok.cc/
       description: Ngrok内网穿透服务
     - title: 在线yaml转换
-      logo: https://api.iowen.cn/favicon/www.toyaml.com.png
+      logo: www.toyaml.com.jpg
       url: https://www.toyaml.com/index.html
       description: 在线yaml转换
     - title: SSL证书在线检测
-      logo: https://api.iowen.cn/favicon/csr.chinassl.net.png
+      logo: csr.chinassl.net.jpg
       url: https://csr.chinassl.net/ssl-checker.html
       description: SSL证书在线检测
     - title: 菜鸟工具
-      logo: https://api.iowen.cn/favicon/c.runoob.com.png
+      logo: c.runoob.com.jpg
       url: https://c.runoob.com/
       description: 菜鸟工具
     - title: shell命令工具
-      logo: https://api.iowen.cn/favicon/www.shell.how.png
+      logo: www.shell.how.jpg
       url: https://www.shell.how/
       description: shell命令及参数解释
     - title: shell命令字典
-      logo: https://api.iowen.cn/favicon/wangchujiang.com.png
+      logo: wangchujiang.com.jpg
       url: https://wangchujiang.com/linux-command/
       description: 输入shell命令，给出命令及参数的作用。
     - title: grafana面板市场
-      logo: https://api.iowen.cn/favicon/grafana.com.png
+      logo: grafana.com.jpg
       url: https://grafana.com/grafana/dashboards/
       description: dashboard市场，可以搜索别人做好的dashboard。
     - title: 文件传输助手
-      logo: https://api.iowen.cn/favicon/filehelper.weixin.qq.com.png
+      logo: filehelper.weixin.qq.com.jpg
       url: https://filehelper.weixin.qq.com/
       description: 微信文件传输助手
-#    - title: redis命令测试工具
-#      logo: https://api.iowen.cn/favicon/try.redis.io.png
-#      url: https://try.redis.io/
-#      description: redis官网提供的命令测试工具
+    #    - title: redis命令测试工具
+    #      try.redis.io.jpg
+    #      url: https://try.redis.io/
+    #      description: redis官网提供的命令测试工具
     - title: css渐变工具
-      logo: https://api.iowen.cn/favicon/mycolor.space.png
+      logo: mycolor.space.jpg
       url: https://mycolor.space/
       description: 提供了可视化的css渐变效果
     - title: css渐变配色方案工具
-      logo: https://api.iowen.cn/favicon/uigradients.com.png
+      logo: uigradients.com.jpg
       url: https://uigradients.com/
       description: 提供了可视化的css渐变效果
     - title: css配色方案工具
-      logo: https://api.iowen.cn/favicon/2colors.colorion.co.png
+      logo: 2colors.colorion.co.jpg
       url: https://2colors.colorion.co/
       description: 提供了可视化的css配色方案
     - title: linux安装包网站
-      logo: https://api.iowen.cn/favicon/pkgs.org/.png
+      logo: pkgs.org.jpg
       url: https://pkgs.org/
       description: 提供了unix和linux平台软件安装包，方便离线安装
     - title: github profile模板网站
-      logo: https://api.iowen.cn/favicon/githubprofile.com/.png
+      logo: githubprofile.com.jpg
       url: https://githubprofile.com/
       description: profile模板网站，可根据模板生成github项目的readme文件
     - title: svg图标网站
-      logo: https://api.iowen.cn/favicon/svgl.app/.png
+      logo: svgl.app.jpg
       url: https://svgl.app/
       description: svg图标网站 侧重公司的品牌和产品的logo
 - taxonomy: 其他
   icon: fas fa-life-ring
   links:
     - title: 城市选择工具
-      logo: https://api.iowen.cn/favicon/guxiang.app/.png
+      logo: guxiang.app.jpg
       url: https://guxiang.app/
       description: 明日故乡|中国版数字游民指南
     - title: jetbrains激活码网站
-      logo: https://api.iowen.cn/favicon/3.jetbra.in/.png
+      logo: 3.jetbra.in.jpg
       url: https://3.jetbra.in/
       description: jetbrains激活码网站 支持idea等软件激活
