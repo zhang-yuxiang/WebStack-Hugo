@@ -23,6 +23,14 @@
       logo: pmbaobao.com.jpg
       url: https://www.pmbaobao.com/
       description: 产品经理导航站
+    - title: Noise 导航
+      logo: todo
+      url: https://www.noisedh.link/
+      description: 开发｜设计｜资源
+    - title: 狼牌工作网址导航
+      logo: todo
+      url: https://www.volf.club/
+      description: 工具｜设计｜素材
 
 
 - taxonomy: 在线工具
@@ -33,6 +41,10 @@
     #      url: https://baidu.com
     #      # qrcode: assets/images/logos/qrcode.jpg
     #      description: BioIT 爱好者！
+    - title: trello项目管理
+      logo:  todo
+      url: https://trello.com/
+      description:  项目管理工具
     - title: 腾讯帮小忙 轻松办公，工具助你一臂之力
       logo: tool.browser.qq.com.jpg
       url: https://tool.browser.qq.com/
@@ -65,9 +77,14 @@
       logo: rivers.chaitin.cn.jpg
       url: https://rivers.chaitin.cn/tools/
       description: 开发常用小工具、数据生图等
-
-
-
+    - title: 网站时光机
+      logo: todo
+      url: https://web.archive.org/
+      description: 历史网站查询工具，有域名即可查询
+    - title: 流光卡片
+      logo: todo
+      url: https://fireflycard.shushiai.com/
+      description: 卡片生成器
 
 - taxonomy: 资源
   icon: fas fa-magic
@@ -100,6 +117,10 @@
       logo: fontawesome.com.jpg
       url: https://fontawesome.com/v5/search
       description: icon库，部分免费
+    - title: 高清壁纸网站
+      logo: todo
+      url: https://wallhaven.cc/
+      description: 免费壁纸
     - title: Free stock photos · Pexels
       logo: www.pexels.com.jpg
       url: https://www.pexels.com/
@@ -184,6 +205,10 @@
       logo: macwk.com.cn.jpg
       url: https://macwk.com.cn/
       description: mac软件资源
+    - title: z-library
+      logo: todo
+      url: https://zh.z-library.sk/
+      description: 图书资源
 
 - taxonomy: 个人博客
   icon: fab fa-hive
@@ -543,10 +568,6 @@
       logo: filehelper.weixin.qq.com.jpg
       url: https://filehelper.weixin.qq.com/
       description: 微信文件传输助手
-    #    - title: redis命令测试工具
-    #      try.redis.io.jpg
-    #      url: https://try.redis.io/
-    #      description: redis官网提供的命令测试工具
     - title: css渐变工具
       logo: mycolor.space.jpg
       url: https://mycolor.space/
@@ -571,6 +592,14 @@
       logo: svgl.app.jpg
       url: https://svgl.app/
       description: svg图标网站 侧重公司的品牌和产品的logo
+    - title: 调色板
+      logo: todo
+      url: https://coolors.co/
+      description: 前端开发调色板工具
+    - title: spring源码阅读工具
+      logo: todo
+      url: https://tools.bmabk.com/
+      description: spring源码阅读工具
 - taxonomy: 其他
   icon: fas fa-life-ring
   links:
