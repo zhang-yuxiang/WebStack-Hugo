@@ -102,13 +102,16 @@ footer.main-footer .footer-text a:hover {
 .panel .panel-body a {color: #007bff;}
 .panel .panel-body a:hover {color: #979898;}
 
-/*网格背景*/
-.io-grey-mode .page-container {
-    z-index: 1;
-    /*background: #acb6e5;  !* fallback for old browsers *!*/
-    /*background: -webkit-linear-gradient(to left, #86fde8, #acb6e5);  !* Chrome 10-25, Safari 5.1-6 *!*/
-    /*background: linear-gradient(to left, #86fde8, #acb6e5); !* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ *!*/
+/*设置背景图片且加模糊*/
+.background{
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
     background: url('../images/4k-bgimage.jpg') fixed;
     background-size: cover;
-
+    /* 图片模糊 */
+    filter: blur(10px);
 }

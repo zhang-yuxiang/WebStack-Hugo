@@ -1,7 +1,9 @@
 {{ if $.Site.Params.nightMode }}
 <body class="io-black-mode">
+<div class="background"></div>
 {{ else }}
 <body class="io-grey-mode">
+<div class="background"></div>
 {{ end }}
     {{ if $.Site.Params.enablePreLoad }}
     <div id="loading">
@@ -62,7 +64,6 @@
         <div class="loader">{{ $.Site.Params.textPreLoad }}</div>
     </div>
     {{ end }}
-    <div class="background"></div>
     <div class="page-container">
 	{{ if $.Site.Params.expandSidebar }}
 	<div id="sidebar" class="sticky sidebar-nav fade animate-nav" style="width: 170px">
